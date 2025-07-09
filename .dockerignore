@@ -1,0 +1,7 @@
+env
+data
+.gitignore
+app.Dockerfile
+model
+prep.ipynb
+train.ipynb
